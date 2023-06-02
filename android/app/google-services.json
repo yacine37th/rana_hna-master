@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "442349224643",
+    "firebase_url": "https://covoapp-5a3bf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "covoapp-5a3bf",
+    "storage_bucket": "covoapp-5a3bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442349224643:android:92130a963e595827dd5876",
+        "android_client_info": {
+          "package_name": "com.example.apptocomplete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442349224643-9l6plmkbldamkoe3tjiar331lvkgho36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZnuRuXxjuGe4yMcTmK1S8CzLZqBKHNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442349224643-9l6plmkbldamkoe3tjiar331lvkgho36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442349224643:android:1290461bfcaa92ebdd5876",
+        "android_client_info": {
+          "package_name": "com.example.covo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442349224643-9l6plmkbldamkoe3tjiar331lvkgho36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZnuRuXxjuGe4yMcTmK1S8CzLZqBKHNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442349224643-9l6plmkbldamkoe3tjiar331lvkgho36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442349224643:android:5fd1bcd07c265ae7dd5876",
+        "android_client_info": {
+          "package_name": "com.salim.ranaHna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442349224643-9l6plmkbldamkoe3tjiar331lvkgho36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZnuRuXxjuGe4yMcTmK1S8CzLZqBKHNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442349224643-9l6plmkbldamkoe3tjiar331lvkgho36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
